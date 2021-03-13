@@ -7,11 +7,11 @@
 Cover:
 
 
-Dear Mr./Ms./Mx.
+Dear reader.
 
-With 10+ years of experience in creating and delivering user-centric applications and solutions, I look forward to bringing my strong creative, technical, and analytical skills to the Full-Stack Developer opening with you.
+With 10+ years of experience in creating and delivering user-centric applications and solutions, I look forward to bringing my strong creative, technical, and analytical skills to the Full-Stack Role.
 
-Throughout my career, I have been acknowledged as a solution-focused professional with the ability to design and develop innovative applications using advanced technologies. In my current role as a Full-stack Developer for IBM, I collaborate closely with the application team to develop and implement many full-stack web applications, ensuring optimal functionality, quality, and reliability. Please consider the following highlights of my career:
+Throughout my career, I have been acknowledged as a solution-focused professional with the ability to design and develop innovative applications using advanced technologies. In my current role as a Full-stack Developer for Centrica, I collaborate closely with the application team to develop and implement many full-stack web applications, ensuring optimal functionality, quality, and reliability. Please consider the following highlights of my career:
  
 ●	Successfully designed and delivered more than 10 mobile applications and REST APIs to support 5 million requests monthly
 ●	Reduced time to market from several days to less than 10 hours by creating and executing a suite of Jenkins based automated build tools and automated testing.
@@ -22,9 +22,9 @@ Throughout my career, I have been acknowledged as a solution-focused professiona
 LinkedIn : https://www.linkedin.com/in/vipin-tomer-baaab629/
 Site created and maintained(sole): https://masalaegham.github.io/masala-egham/ 
 GitHub: https://github.com/viptomer1
-I would greatly appreciate the opportunity to meet with you and further discuss my qualifications and your requirements in detail. Thank you for your consideration, and I look forward to speaking with you soon.
+I would greatly appreciate the opportunity to meet with you for any technical discussion over Full stack skills and further discuss.
 
-One thing which I wanted to highlight is, I would need Visa Sponsorship further as I am on a Tier2 Visa in the UK.
+<br>Thank you for your consideration, and I look forward to speaking with you soon.
  
  
 Sincerely,
