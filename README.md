@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vipin Tomer
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...Full stack JS frameworks
 - 🌱 I’m currently learning ...React & Node as a full stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...(vipin tomer) on linked in
@@ -11,7 +11,7 @@ Dear reader.
 
 With 10+ years of experience in creating and delivering user-centric applications and solutions, I look forward to bringing my strong creative, technical, and analytical skills to the Full-Stack Role.
 
-Throughout my career, I have been acknowledged as a solution-focused professional with the ability to design and develop innovative applications using advanced technologies. In my current role as a Full-stack Developer for Centrica, I collaborate closely with the application team to develop and implement many full-stack web applications, ensuring optimal functionality, quality, and reliability. Please consider the following highlights of my career:
+Throughout my career, I have been acknowledged as a solution-focused professional with the ability to design and develop innovative applications using advanced technologies. In my current role as a Full-stack Developer for Accenture, I collaborate closely with the application team to develop and implement many full-stack web applications, ensuring optimal functionality, quality, and reliability. Please consider the following highlights of my career:
  
 ●	Successfully designed and delivered more than 10 mobile applications and REST APIs to support 5 million requests monthly
 ●	Reduced time to market from several days to less than 10 hours by creating and executing a suite of Jenkins based automated build tools and automated testing.
