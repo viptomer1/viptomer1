@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vipin Tomer
-- 👀 I’m interested in ...Full stack JS frameworks
-- 🌱 I’m currently learning ...React & Node as a full stack
+- 👀 I’m interested in ...Full stack JS frameworks and as Lead Dev
+- 🌱 I’m currently handson ...React & Node, Python as a full stack Dev & Tech Lead
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...(vipin tomer) on linked in- linkedin.com/in/viptomer
 
@@ -32,9 +32,7 @@ Core Expertise
 Achievements
 <br>
 • Delivered multiple enterprise-scale digital transformation projects across Government, Banking, Telecom, and Utilities sectors
-
 • Led engineering teams while remaining hands-on in architecture, development, cloud deployment, and production support
-
 • Recognised for driving scalable cloud-native solutions, improving delivery efficiency, and mentoring development teams
 
 • Successfully implemented secure authentication platforms and modern microservices architectures for enterprise applications
@@ -48,7 +46,8 @@ Certifications
 • MongoDB Atlas Certified
 ●	Collaborated on a client project which won the 2019 UK Best IT award for Innovation
 <br>
-LinkedIn : https://www.linkedin.com/in/vipin-tomer-baaab629/
+LinkedIn : https://www.linkedin.com/in/viptomer/
+<br>
 Site created and maintained(sole): https://masalaegham.github.io/masala-egham/ 
 <br>GitHub: https://github.com/viptomer1
 <br>I would greatly appreciate the opportunity to meet with you for any technical discussion over Full stack skills and further discuss.
