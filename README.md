@@ -18,9 +18,10 @@ Strong background in collaborating directly with clients, product owners, and bu
 <br>
 Core Expertise
 <br>
-• Technical Leadership & Solution Architecture
-• Full Stack Development – React, Angular, Node.js, Java, Python
-• AWS, Azure & Cloud-Native Development
+●	 Technical Leadership & Solution Architecture
+
+●	 Full Stack Development – React, Angular, Node.js, Java, Python
+●	AWS, Azure & Cloud-Native Development
 • CI/CD Pipelines & DevOps Automation
 • Microservices & REST API Development
 • Azure AD B2C & Secure Authentication
@@ -39,12 +40,18 @@ Achievements
 
 Certifications
 <br>
-• AWS Certified Cloud Practitioner
-• AWS Essentials Certified
-• IBM Cloud Certified v1
-• Automation Specialist – Level 1 Certified
-• MongoDB Atlas Certified
+●	 AWS Certified Cloud Practitioner
+
+●	AWS Essentials Certified
+
+●	 IBM Cloud Certified v1
+
+●	 Automation Specialist – Level 1 Certified
+
+●	 MongoDB Atlas Certified
+
 ●	Collaborated on a client project which won the 2019 UK Best IT award for Innovation
+
 <br>
 LinkedIn : https://www.linkedin.com/in/viptomer/
 <br>
